@@ -2,10 +2,13 @@
 
 I'm a journalist based in Chicago. I write a newsletter called Labor Pains. In my past lives I've been many things, and in my future lives I'll be many more things. Right now, I'm just a girl trying to learn Python and R with Steven Universe episodes playing in the background.
 
-🤔 I’m looking for help with: learning Python and how to scrape federal databases.
-👯 I’m looking to collaborate on: stories about labor, unions and work.
-💬 Ask me about: Real Housewives and the Celebreality era of VH1. I have thoughts.
-📫 How to reach me: aj.velasquez192@gmail.com
+🤔 I’m looking for help with: learning Python and how to scrape federal databases.  
+
+👯 I’m looking to collaborate on: stories about labor, unions and work.  
+
+💬 Ask me about: Real Housewives and the Celebreality era of VH1. I have thoughts.  
+
+📫 How to reach me: You can find me on Signal @ariasnaps.11.
 <!--
 **ariavelasquez/ariavelasquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
